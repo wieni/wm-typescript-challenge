@@ -8,7 +8,7 @@ The goal of this project is to get you familiar with some of the coding that we 
 
 ## .env
 
-In order to make the api endpoints working during development, make sure you have `.env` file containing the folling content:
+In order to get the api endpoints working during local development, make sure you have `.env` file with the following content:
 
 ```
 REACT_APP_PUBLIC_API_MOCKING=enabled
