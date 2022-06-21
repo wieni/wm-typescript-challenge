@@ -18,4 +18,7 @@ I can see all the cocktails
 
 ## 📝 Notes
 
-- The mock api for popular currently has no search filters build in. **You need to alter this.**
+- The mock api for this endpoint (`/api/recipes/all`) `limit` and `offset` param. These params should work as described here:
+  - `limit`: allows you to limit the number of results returned
+  - `offset` allows you to omit a specified number of rows before the beginning of the result set
+  - Use there parameters in `fetch` made from the client.
