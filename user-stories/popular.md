@@ -14,4 +14,5 @@ So I can get inspired on which cocktail to make
 
 ## 📝 Notes
 
-- The mock api for popular currently returns all cocktails. **You need to alter this.**
+- The mock api for popular currently returns all cocktails. **You need to alter this.** Since we are mocking something here, you can just assume that the first five from the `cocktails.json` are the most popular. Just slice the first 5 from the array.
+
