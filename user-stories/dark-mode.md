@@ -12,4 +12,4 @@ So I can browse the website both in light and dark mode based on my browser pref
 
 - Use the browser preferences to detect the mode
 - Allow manually override the 'theme' by a button in the navigation
-- Make sure the text contract is accessible (following [WCAG’s AA compliance](https://www.w3.org/WAI/standards-guidelines/wcag/))
+- Make sure the text contrast is accessible (following [WCAG’s AA compliance](https://www.w3.org/WAI/standards-guidelines/wcag/))
