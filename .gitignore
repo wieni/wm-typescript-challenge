@@ -24,3 +24,5 @@ yarn-error.log*
 
 .env
 .env.*
+
+/v2/solution
