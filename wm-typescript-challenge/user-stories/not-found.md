@@ -12,5 +12,4 @@ So I can go back to the homepage
 
 - The error page uses the same layout and styling as the main app.
 - Provide a button to go back to the homepage.
-- Make sure the error and the button to go back show in the middle of the screen.
 - Make use of the Next.js app router filename convention.
