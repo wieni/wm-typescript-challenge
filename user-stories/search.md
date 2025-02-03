@@ -12,3 +12,8 @@ As a user I can search for a cocktail on the recipes page
 - Make sure you add a reasonable debounce to the search input.
 - Make use of a search library to help with the search functionality. (react-query, swr, ...)
 - Spice up the search input with functionalities such as a clear button, suggestions, autocomplete, etc.
+
+## ⭐ Bonus criteria
+
+- Create an API endpoint that accepts a search query and returns a list of filtered cocktails.
+- Use a fuzzy search library to filter the cocktails.
